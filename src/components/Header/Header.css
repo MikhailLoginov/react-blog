@@ -1,0 +1,11 @@
+header .container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.active {
+    background-color: rgb(129, 129, 253);
+    border-radius: 5px;
+    color: white;
+}
